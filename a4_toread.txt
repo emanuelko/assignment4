@@ -1,0 +1,5 @@
+<?php phpinfo() ?>
+hello
+im
+emanuel
+<script>document.body.style.backgroundColor = 'pink'</script>
